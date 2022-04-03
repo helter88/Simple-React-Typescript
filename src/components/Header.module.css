@@ -18,7 +18,10 @@
   margin: 0 2rem;
   color: #f7f5f2;
 }
-
+.header a{
+  text-decoration: none;
+  color: #dfdfde;
+}
 .header a:hover,
 .header a:active,
 .header a.active {
